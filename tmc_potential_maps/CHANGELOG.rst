@@ -7,10 +7,6 @@ Changelog for package tmc_potential_maps
 * Migration to ROS2 jazzy
 * Contributors: Shigeo Tsuduki
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package tmc_potential_maps
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 2.0.0 (2024-10-15)
 -------------------
 * Initial release
